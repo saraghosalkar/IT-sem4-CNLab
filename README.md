@@ -3,6 +3,12 @@
 
 #### Contents :
 1. Understanding Basic networking Commands.
+ping
+ifconfig
+traceroute
+netstat
+nslookup
+
 2. Installation and configuration of NS2 and implementation of TCL Hello Programming
 3. Implementation of Specific Network topology with respect to TCP
 4. Implementation of Specific Network topology with respect to UDP
