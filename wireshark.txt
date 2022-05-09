@@ -1,0 +1,4 @@
+sudo apt-get install wireshark
+sudo groupadd wireshark
+sudo usermod -a -G wireshark sara
+sudo chgrp wireshark /user/bin/dumpcap
