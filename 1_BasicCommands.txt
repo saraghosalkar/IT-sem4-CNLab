@@ -1,0 +1,5 @@
+ping - 
+ifconfig - 
+traceroute - 
+netstat - 
+nslookup - 
